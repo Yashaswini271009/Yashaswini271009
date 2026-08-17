@@ -24,25 +24,31 @@ I sit at the intersection of blue-team fundamentals and applied ML — building 
 
 ---
 
-### 🧰 Toolbox
+🧠 Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,bash,react,kotlin,firebase&theme=dark" />
-</p>
+🔐 Cybersecurity
 
-<p align="left">
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<p align="left"> <img src="https://img.shields.io/badge/DFIR-2E2E2E?style=flat-square" /> <img src="https://img.shields.io/badge/Application_Security-2E2E2E?style=flat-square" /> <img src="https://img.shields.io/badge/GRC-2E2E2E?style=flat-square" /> <img src="https://img.shields.io/badge/MITRE_ATT%26CK-2E2E2E?style=flat-square" /> <img src="https://img.shields.io/badge/OSINT-2E2E2E?style=flat-square" /> <img src="https://img.shields.io/badge/Cryptography-2E2E2E?style=flat-square" /> <img src="https://img.shields.io/badge/Network_Security-2E2E2E?style=flat-square" /> <img src="https://img.shields.io/badge/Threat_Detection-2E2E2E?style=flat-square" /> </p>
 
-**Focus areas:** DFIR · Application Security · GRC · MITRE ATT&CK · OSINT · Cryptography
+📋 GRC & Documentation
 
-**GRC & Documentation:** Audit-Evidence Reporting · Control Gap Documentation · Risk Assessment · Compliance Mapping · Technical Report Writing · Chain-of-Custody Documentation
+<p align="left"> <img src="https://img.shields.io/badge/Audit--Evidence_Reporting-0B5394?style=flat-square" /> <img src="https://img.shields.io/badge/Control_Gap_Documentation-0B5394?style=flat-square" /> <img src="https://img.shields.io/badge/Risk_Assessment-0B5394?style=flat-square" /> <img src="https://img.shields.io/badge/Compliance_Mapping-0B5394?style=flat-square" /> <img src="https://img.shields.io/badge/Technical_Report_Writing-0B5394?style=flat-square" /> <img src="https://img.shields.io/badge/Chain--of--Custody_Documentation-0B5394?style=flat-square" /> </p>
 
+💻 Development
+
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,bash,react,kotlin&theme=dark" /> </p>
+
+🤖 ML / Data
+
+<p align="left"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" /> <img src="https://img.shields.io/badge/IsolationForest-F7931E?style=for-the-badge" /> <img src="https://img.shields.io/badge/Anomaly_Detection-F7931E?style=for-the-badge" /> </p>
+
+🛠️ Tools & Platforms
+
+<p align="left"> <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" /> <img src="https://img.shields.io/badge/Git%2FGitHub-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
+
+📚 Currently Learning
+
+<p align="left"> <img src="https://img.shields.io/badge/CompTIA_Security%2B_(SY0--701)-CC2927?style=for-the-badge&logo=comptia&logoColor=white" /> </p>
 ---
 
 ### 📜 Certifications
@@ -108,9 +114,3 @@ OCR + Claude API pipeline shipped to production during my SWE internship.
 </table>
 
 ---
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2E9EF7&style=flat)
-
-</div>
