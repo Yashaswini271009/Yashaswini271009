@@ -109,21 +109,7 @@ OCR + Claude API pipeline shipped to production during my SWE internship.
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-### 🤝 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://YOUR_SUBSTACK.substack.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2E9EF7&style=flat)
 
