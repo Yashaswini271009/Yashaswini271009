@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Harper 🛡️
+# Hey, I'm Yashaswini 🛡️
 
-### Final-Year Cybersecurity Engineer · Turning Logs into Evidence
+### Final-Year Cybersecurity Student at DSATM
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=DFIR+%7C+AppSec+%7C+AI-Assisted+Threat+Detection;Building+explainable+security+tools;Currently+chasing+Security%2B)](https://git.io/typing-svg)
 
@@ -14,18 +14,12 @@
 
 I sit at the intersection of blue-team fundamentals and applied ML — building tools that don't just flag threats, but explain *why*. Most of my work lives in forensic tooling, anomaly detection, and making security systems legible to non-security people.
 
-- 🔭 Currently building **LogShield 2.0** — a live Windows Event Log forensic pipeline with tamper-evident logging and ML-driven anomaly detection
-- 🌱 Studying for **CompTIA Security+ (SY0-701)**
-- ⚡ Fun fact: I write about security through a psychology lens (fraud triangles, coercive control) on the side
-
----
-
-- 🔭 I'm currently working on **LogShield 2.0** — a live forensic pipeline for Windows Event Logs
+- 🔭 I'm currently working on **LogShield 2.0** —  a live Windows Event Log forensic pipeline with tamper-evident logging and ML-driven anomaly detection
 - 🌱 I'm currently learning **CompTIA Security+ (SY0-701)**
 - 👯 I'm looking to collaborate on DFIR tooling and AI-assisted threat detection projects
 - 🤔 I'm looking for help with real-world log datasets for testing anomaly detection
 - 💬 Ask me about digital forensics, HMAC-chained logging, or applying psych frameworks to security
-- 📫 How to reach me: **YOUR_EMAIL_OR_LINKEDIN**
+- 📫 How to reach me: **yashaswinit2705@gmail.com**
 - ⚡ Fun fact: I write about security through a psychology lens — fraud triangles, coercive control — on my Substack
 
 ---
@@ -46,6 +40,17 @@ I sit at the intersection of blue-team fundamentals and applied ML — building 
 </p>
 
 **Focus areas:** DFIR · Application Security · GRC · MITRE ATT&CK · OSINT · Cryptography
+
+**GRC & Documentation:** Audit-Evidence Reporting · Control Gap Documentation · Risk Assessment · Compliance Mapping · Technical Report Writing · Chain-of-Custody Documentation
+
+---
+
+### 📜 Certifications
+
+- 🎓 Ethical Hacking Certificate — **EC-Council**
+- 🎓 Google Cybersecurity Professional Certificate
+- 🎓 Cyber Security Foundation Certificate — **Infosys Springboard**
+- 🎓 AI & ML Certificate — **Infosys Springboard**
 
 ---
 
@@ -123,11 +128,3 @@ OCR + Claude API pipeline shipped to production during my SWE internship.
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2E9EF7&style=flat)
 
 </div>
-
-<!--
-Notes for Harper:
-- Replace YOUR_USERNAME (3x) and YOUR_LINKEDIN / YOUR_SUBSTACK with your real handles — the stats cards and view counter are live services keyed off your GitHub username, they won't render right without it
-- The typing line and skill icons are pulled from free public badge services (readme-typing-svg, skillicons.dev, shields.io) — no signup needed, just works once pasted into your profile repo's README.md
-- Swap "tokyonight" theme in the stats card URLs for others if you want a different palette (e.g. "dark", "radical", "merko") — full list is on the github-readme-stats repo
-- Drop the Substack badge if you'd rather keep that separate from your engineering profile
--->
